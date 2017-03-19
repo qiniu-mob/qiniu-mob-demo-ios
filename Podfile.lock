@@ -1,0 +1,21 @@
+PODS:
+  - QNMob (1.0.0)
+
+DEPENDENCIES:
+  - QNMob (from `https://github.com/qiniu-mob/qiniu-mob-ios.git`)
+
+EXTERNAL SOURCES:
+  QNMob:
+    :git: https://github.com/qiniu-mob/qiniu-mob-ios.git
+
+CHECKOUT OPTIONS:
+  QNMob:
+    :commit: 7a9eed135905774ebf23e1b5c8320ffa4ab22f8a
+    :git: https://github.com/qiniu-mob/qiniu-mob-ios.git
+
+SPEC CHECKSUMS:
+  QNMob: c061ebcf3bb126db608d9529e4d2da4273030995
+
+PODFILE CHECKSUM: c1a303df7203d94de81d6628440019e7f2b441b2
+
+COCOAPODS: 1.2.0
